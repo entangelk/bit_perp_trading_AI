@@ -120,8 +120,8 @@ TRADING_CONFIG = {
     'leverage': 5,              # 레버리지
     'usdt_amount': 0.3,         # 거래 금액
     'set_timevalue': '15m',     # 분석 주기
-    'take_profit': 400,         # 목표 수익 (pips)
-    'stop_loss': 400            # 손절 (pips)
+    'take_profit': 800,         # 목표 수익 (pips)
+    'stop_loss': 800            # 손절 (pips)
 }
 ```
 
